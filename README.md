@@ -24,4 +24,4 @@ Integrating these two files allow to automate the tasks associated with generati
 
 #### Screenshot of the transaction details on Ganache
 
-![Transaction](Transaction.png)
+![Transaction](Transactions.png)
